@@ -102,13 +102,13 @@ body{
 
 .conteudo-sobre-escrito{
     padding-left: 30px;
-    width: 600px
+    width: 600px;
                
 }
 
 #conteudo-sobre h2{
     font-size: 40px;
-    margin-top: 20px
+    margin-top: 20px;
 }
 
 .imagem-2{
@@ -154,7 +154,7 @@ body{
 .topico-1{
     width: 340px;
     text-align: center;
-    margin: 5px
+    margin: 5px;
 }
 
 .topico-2{
@@ -180,14 +180,14 @@ body{
 .conteudo-servicos h2{
     margin: 20px 0 0 0;
     font-size: 40px;
-    font-weight: 400
+    font-weight: 400;
     
 }
 
 .conteudo-servicos h3{
     padding-bottom: 20px;
     font-size: 24px;
-    font-weight: 300
+    font-weight: 300;
 
 }
 
